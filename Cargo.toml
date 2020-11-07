@@ -1,0 +1,12 @@
+[package]
+name = "XEngine"
+version = "0.0.1"
+authors = ["Skillwon <skillwon@foxmail.com>"]
+edition = "2018"
+description = "An advanced case of an AI engine"
+license = "MIT/Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# rand = "0.7.3"
